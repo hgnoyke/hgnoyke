@@ -4,48 +4,39 @@ title: Projekte, Coaching, Reviews und Workshops
 permalink: /projects/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+Dieser Auszug aus meinen Projektaufträgen stellt das breite Spektrum meiner Expertise dar. Für ausführlichere Informationen sprechen Sie mich gerne an.
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+*Senior Systemarchitekt – Neuimplementierung des Kernsystems für ein führendes Inkassounternehmen*
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+- Microservices-Architektur
+- Technische und Fachliche Konzeption
+- Architekturarbeit
+- Führen von Entwicklerteams
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+*Coaching und Workshops – DevOps-Initiative in einem führenden Luftfahrtunternehmen*
+- Microservices-Architektur
+- Langfristige Begleitung der Projektleitung
+- Konzeption und Durchführung halbjährlicher Workshops mit dem gesamten Projektteam
+- Internationales Entwicklerteam
 
-### Step 2) Customize and view your site
+*Workshops – Vorbereitung der Übernahme eines Softwareprodukt-Herstellers im Bereich medizinischer Pflege*
+- Definition der relevanten Kriterien
+- Konzeption und Durchführung von Workshops mit dem Produkthersteller und der übernehmenden Firma
+- Bewertung des Softwareprodukts
+- Internationales Entwicklerteam
+*Coaching – Verbesserung der Architekturarbeit in Entwicklungsteams bei einer namhaften SaaS-Lösung und einem Logistikunternehmen*
+- Kickoff mit Bestandsaufnahme
+- Individuell angepasstes Vorgehen passend zum Skillset des Entwicklungsteams
+- Schrittweise Verbesserung der Architekturarbeit
+- Regelmäßige Reviews
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+*Review – Auswahl von Technologien für ein Startup im Bereich ERP*
+- Ausgangspunkt: Fachliches Konzept
+- Bewertung und Formung der technischen Machbarkeit
+- Treffen von Technologieentscheidungen um Entwickler zu beauftragen
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
-
-### Step 3) Publish your first blog post
-
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
-
-## Using Categories in Reverie
-
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+*Beratung – Entwicklung einer App zur Abbildung unternehmensinterner Prozesse bei einem führenden Unternehmen im Bereich Messe- und Veranstaltungstechnik*
+- Beratung bei der fachlichen Konzeption
+- Bewertung und Formung der technischen Machbarkeit
+- Auswahlprozess für externe Dienstleister für die Entwicklung
+- Begleitung während der Entwicklung und Übernahme der Software
