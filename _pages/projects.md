@@ -24,6 +24,7 @@ Dieser Auszug aus meinen Projektaufträgen stellt das breite Spektrum meiner Exp
 - Konzeption und Durchführung von Workshops mit dem Produkthersteller und der übernehmenden Firma
 - Bewertung des Softwareprodukts
 - Internationales Entwicklerteam
+
 *Coaching – Verbesserung der Architekturarbeit in Entwicklungsteams bei einer namhaften SaaS-Lösung und einem Logistikunternehmen*
 - Kickoff mit Bestandsaufnahme
 - Individuell angepasstes Vorgehen passend zum Skillset des Entwicklungsteams
