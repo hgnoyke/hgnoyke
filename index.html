@@ -2,48 +2,13 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+<div>
+  <h2>Willkommen</h2>
+  <p>Moin!
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
-  {% endif %}
+    Seit mehr als fünfzehn Jahren bin ich in IT-Projekten unterwegs. Mein Schwerpunkt liegt heute auf der unabhängigen Beratung zu Softwarearchitektur in Projekten und Entwicklungsteams als Geschäftsführer der Conrix GmbH. Über die Jahre habe ich mich in verschiedenen Branchen und Projektgrößen – national wie international über Architektur, Strategieberatung, Entwicklung bis zum Betrieb der Software – für meine Kunden eingebracht.
+    
+    Meine besondere Stärke ist meine Auffassungsgabe, die mir erlaubt den Kontext eines Projekts schnell zu erfassen. Pragmatisch und effizient setze ich mich für die Ziele des Kunden ein. Bei Bedarf beleuchte ich auch gemeinsam mit dem Kunden seine Strategie und leite daraus sinnvolle Ziele ab.
+    
+    So gelingt es mir, mich gemeinsam mit meinen Kunden an die sich ständig verändernde Umwelt anzupassen.</p>
 </div>
